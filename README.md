@@ -2,11 +2,5 @@
 
 # Content
 
-- [Attack time](#attack-time)
-- [Phishing](#phishing)
-
-
-## Attack time
-
-
-## Phishing
+- [Attack time](./Attack-time)
+- [Phishing](./Phishing)
